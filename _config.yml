@@ -1,4 +1,3 @@
-layout_spectrum: 0.8149180291220546
 typography_spectrum: 0.09012179262936115
 color:
   brandStrength: 0.05909810122102499
@@ -11,4 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.8149180291220546
+author:
+  name: Sebastian Bub
+  email: sebastian@der-bub.de
+  url: 'http://der-bub.de'
 name: der bub
+title: iOS Developer
