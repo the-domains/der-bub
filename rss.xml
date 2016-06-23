@@ -4,7 +4,7 @@
         <description><![CDATA[iOS Developer]]></description>
         <link>https://thegrid.ai/der-bub/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 20:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 20:06:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/der-bub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sie suchen zur Umsetzung eines IT-Projektes einen geeigneten, externen Softwareentwickler?]]></title>
@@ -14,18 +14,25 @@
             <pubDate>Thu, 23 Jun 2016 20:04:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vita]]></title>
-            <description><![CDATA[<article><h1>Vita</h1><p>Diplom-Ingenieur für technische Informatik</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c8f011b1eabf63519f02454c0265277/croprotate.jpg?cropheight=2671&cropwidth=4000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3bd35e0b-c84b-44ac-b680-70a9561d285f.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bd35e0b-c84b-44ac-b680-70a9561d285f.jpg</link>
-            <guid isPermaLink="false">d2aaf835-1752-490a-bae0-8db3e679fe8a</guid>
-            <pubDate>Thu, 23 Jun 2016 20:07:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Projektreferenzen]]></title>
             <description><![CDATA[<article><h1>Projektreferenzen</h1><p>iOS Entwickler und Architekt: meine Apps im App Store</p></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9b34822-fe37-43e2-bf34-7e8c824d8fe7.jpg</link>
             <guid isPermaLink="false">d232483f-55b8-4d40-bf7d-9d8ea188404a</guid>
             <pubDate>Thu, 23 Jun 2016 20:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vita]]></title>
+            <description><![CDATA[<article><h1>Vita</h1><p>Diplom-Ingenieur für technische Informatik</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c8f011b1eabf63519f02454c0265277/croprotate.jpg?cropheight=2671&cropwidth=4000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3bd35e0b-c84b-44ac-b680-70a9561d285f.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bd35e0b-c84b-44ac-b680-70a9561d285f.jpg</link>
+            <guid isPermaLink="false">d2aaf835-1752-490a-bae0-8db3e679fe8a</guid>
+            <pubDate>Thu, 23 Jun 2016 20:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f4c537b-d7d4-461c-a4d5-dc28373a533e.jpg">]]></description>
+            <link>https://thegrid.ai/der-bub/7fdbf394-2d96-483c-ac1e-3485675ae4d3/index.html</link>
+            <guid isPermaLink="false">7fdbf394-2d96-483c-ac1e-3485675ae4d3</guid>
+            <pubDate>Tue, 31 May 2016 20:16:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
