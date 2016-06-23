@@ -9,8 +9,8 @@ description: >-
   Kunden, Entwicklerteam, Hosting Firma und weiteren technischen Partnern.
   Aufgrund meiner Erfahrungen habe ich exzellentes Wissen über das CMS Produkt
   der Firma CoreMedia.
-dateModified: '2016-06-23T20:22:25.036Z'
-datePublished: '2016-06-23T20:22:25.381Z'
+dateModified: '2016-06-23T20:25:22.760Z'
+datePublished: '2016-06-23T20:25:38.653Z'
 title: >-
   Sie suchen zur Umsetzung eines IT-Projektes einen geeigneten, externen
   Softwareentwickler?
