@@ -1,7 +1,7 @@
 ---
 description: 'iOS Entwickler und Architekt: meine Apps im App Store'
-dateModified: '2016-06-23T20:09:58.986Z'
-datePublished: '2016-06-23T20:10:27.094Z'
+dateModified: '2016-06-23T20:11:14.778Z'
+datePublished: '2016-06-23T20:13:07.048Z'
 title: Projektreferenzen
 author: []
 isBasedOnUrl: >-
@@ -15,7 +15,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d40598b-ce00-41bc-83ae-a70c9ea0ebd8.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5086b9ca5ff43e2a371bec4ce3baf828/croprotate.jpg?cropheight=2671&cropwidth=4000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8d40598b-ce00-41bc-83ae-a70c9ea0ebd8.jpg&x=0&y=0)
 
 # Projektreferenzen
 
