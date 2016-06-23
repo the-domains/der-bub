@@ -1,30 +1,30 @@
 ---
-description: 'In 2016: Weiterentwicklung einer innovativen iOS App für ein Startup'
-dateModified: '2016-06-23T19:49:26.808Z'
-datePublished: '2016-06-23T19:49:36.611Z'
-title: ''
+description: 'Verantwortung:  Implementierung an einer B2C-Lösung (ride sharing app)'
+dateModified: '2016-06-23T19:59:34.138Z'
+datePublished: '2016-06-23T19:59:46.351Z'
+title: Projektreferenzen
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9b34822-fe37-43e2-bf34-7e8c824d8fe7.jpg
-starred: false
 sourcePath: >-
   _posts/2016-06-23-in-2016-weiterentwicklung-einer-innovativen-ios-app-fur-ei.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9b34822-fe37-43e2-bf34-7e8c824d8fe7.jpg)
+# Projektreferenzen
 
-In 2016: Weiterentwicklung einer innovativen iOS App für ein Startup
+## In 2016: Weiterentwicklung einer innovativen iOS App für ein Startup
 
 Verantwortung:  
 Implementierung an einer B2C-Lösung (ride sharing app)
 
 Systemumgebung: Swift, MapKit, REST-API
 
-In 2016: Projektbegleitende Software-Architektur und Konzept-Review einer iOS App
+## In 2016: Projektbegleitende Software-Architektur und Konzept-Review einer iOS App
 
 Verantwortung:  
 Review der Software-Architektur, Review der technischen Konzepte Projektbegleitende Unterstützung in allen iOS Fragen
@@ -32,13 +32,13 @@ Review der Software-Architektur, Review der technischen Konzepte Projektbegleite
 Systemumgebung:  
 iOS, Objective-C, Jira, Confluence
 
-In 2016: Entwicklung eines iOS Spiels als Lückentext Verantwortung:
+## In 2016: Entwicklung eines iOS Spiels als Lückentext Verantwortung:
 
 Konzeption und Implementierung eines eigenen iOS Programms: Lückentext für Erstleser
 
 Systemumgebung: xCode, Objective-C
 
-In 2015: Migration des Rechenzentrums bei laufendem Betrieb für eine General-Interest- Site
+## In 2015: Migration des Rechenzentrums bei laufendem Betrieb für eine General-Interest- Site
 
 Verantwortung:  
 Planung und Durchführung der Migration im DevOps Team, Architekturerweiterungen, Chef, Jenkins, Docker
@@ -46,7 +46,7 @@ Planung und Durchführung der Migration im DevOps Team, Architekturerweiterunge
 Systemumgebung:  
 CoreMedia CMS 7 (von Solaris nach Linux, Oracle nach Postgres, HW nach Docker)
 
-In 2015: Software-Architektur-Beratungen, Unterstützung bei Angebotserstellung
+## In 2015: Software-Architektur-Beratungen, Unterstützung bei Angebotserstellung
 
 Verantwortung:  
 Beratung bei Software-Architektur-Themen, Erstellung bei Angeboten
@@ -54,14 +54,14 @@ Beratung bei Software-Architektur-Themen, Erstellung bei Angeboten
 Systemumgebung:  
 Java, CoreMedia, Objective-C
 
-In 2015: Erweiterung einer iOS App mit Apple Watch Extension (1 und 2) zur Steuerung von z.B. einer Hausautomation
+## In 2015: Erweiterung einer iOS App mit Apple Watch Extension (1 und 2) zur Steuerung von z.B. einer Hausautomation
 
 Verantwortung:  
 Erweiterung einer iOS App mit Apple Watch Extension (1 und 2) zur Steuerung von z.B. einer Hausautomation
 
 Systemumgebung: Swift
 
-In 2015: Technische Projektleitung für mobile Apps
+## In 2015: Technische Projektleitung für mobile Apps
 
 Verantwortung:  
 Technische Projektleitung auf allen großen Plattformen in 4 Sprachen
@@ -69,14 +69,14 @@ Technische Projektleitung auf allen großen Plattformen in 4 Sprachen
 Systemumgebung:  
 iOS, Android, Backberry, Windows
 
-In 2014: Entwicklung einer innovativen iOS App für ein Startup
+## In 2014: Entwicklung einer innovativen iOS App für ein Startup
 
 Verantwortung:  
 Implementierung an einer B2C-Lösung (ride sharing app)
 
 Systemumgebung: Swift, MapKit, REST-API
 
-In 2014: CoreMedia CMS Versionsupgrade auf CM7
+## In 2014: CoreMedia CMS Versionsupgrade auf CM7
 
 Verantwortung:  
 Software Migration, neue Maven Struktur, Chef Update, Beheben von Nebenläufigkeitsfehlern, Architekturerweiterungen, JDK Crahses, Threaddump Analysen, Dokumentenmodell-Änderungen
@@ -84,7 +84,7 @@ Software Migration, neue Maven Struktur, Chef Update, Beheben von Nebenläufigk
 Systemumgebung:  
 CoreMedia CMS 7 CAE (auf Sun und Mac OS X), Tomcat 7, Oracle 11
 
-In 2013/2014: Unterstützung der DevOps im Betrieb einer General-Interest-Site
+## In 2013/2014: Unterstützung der DevOps im Betrieb einer General-Interest-Site
 
 Verantwortung:  
 Java Memory Leaks Analyse, Threaddump Analysen, Beheben von Nebenläufigkeitsfehlern, Architekturerweiterungen, Content-Migration, CMS Version-Updates, Dokumentenmodell- Änderungen
@@ -92,7 +92,7 @@ Java Memory Leaks Analyse, Threaddump Analysen, Beheben von Nebenläufigkeitsfe
 Systemumgebung:  
 CoreMedia CMS 2008 ADS & CAE (auf Sun und Mac OS X), Tomcat 6, Oracle 10i
 
-In 2013: Entwicklung einer iOS App als Konferenzraumanzeige
+## In 2013: Entwicklung einer iOS App als Konferenzraumanzeige
 
 Verantwortung:  
 Konzeption und Implementierung eines eigenen iOS Programms zur Nutzung als Konferenzraumanzeige
@@ -101,7 +101,7 @@ Systemumgebung:
 
 xCode, Objective-C
 
-In 2013: Unterstützung der DevOps im Betrieb einer General-Interest-Site
+## In 2013: Unterstützung der DevOps im Betrieb einer General-Interest-Site
 
 Verantwortung:  
 Java Memory Leaks Analyse, Threaddump Analysen, Beheben von Nebenläufigkeitsfehlern, Architekturerweiterungen, Content-Migration, CMS Version-Updates, Dokumentenmodell- Änderungen
@@ -109,14 +109,14 @@ Java Memory Leaks Analyse, Threaddump Analysen, Beheben von Nebenläufigkeitsfe
 Systemumgebung:  
 CoreMedia CMS 2008 ADS & CAE (auf Sun und Mac OS X), Tomcat 6, Oracle 10i
 
-In 2013: Entwicklung einer iOS App mit dynamischer UI
+## In 2013: Entwicklung einer iOS App mit dynamischer UI
 
 Verantwortung:  
 Idee, Konzeption, Design und Implementierung eines eigenen iOS Programms zur Steuerung von z.B. dem Raspberry Pi
 
 Systemumgebung: xCode, Objective-C
 
-2012-2013: Entwicklung einer iOS App mit CoreData, Cloud-Synchronization, XMPP und Quartz 2D
+## 2012-2013: Entwicklung einer iOS App mit CoreData, Cloud-Synchronization, XMPP und Quartz 2D
 
 Verantwortung:  
 Implementierung an einer B2B-Lösung. Das Projekt hatte vor allem Android im Fokus und ich habe die vorhandene Android App auf iOS migriert.
@@ -132,14 +132,14 @@ Multilanguage
 Systemumgebung:  
 xCode, Objective-C, CoreData, Quartz 2D, XMPP
 
-In 2012: Entwicklung einer Web App zur Steuerung der Raspberry Pi GPIO Ports Verantwortung:
+## In 2012: Entwicklung einer Web App zur Steuerung der Raspberry Pi GPIO Ports Verantwortung:
 
 Eigenentwicklung einer Web App zur Steuerung der GPIO Ports des Raspberry Pi
 
 Systemumgebung:  
 Raspbian, Winstone Servlet Container, Maven, Java 6, JSON
 
-In 2012: Unterstützung der DevOps im Betrieb einer General-Interest-Site
+## In 2012: Unterstützung der DevOps im Betrieb einer General-Interest-Site
 
 Verantwortung:  
 Java Memory Leaks Analyse, Threaddump Analysen, Beheben von Nebenläufigkeitsfehlern, Architekturerweiterungen, Content-Migration, CMS Version-Updates, Dokumentenmodell- Änderungen
@@ -147,21 +147,21 @@ Java Memory Leaks Analyse, Threaddump Analysen, Beheben von Nebenläufigkeitsfe
 Systemumgebung:  
 CoreMedia CMS 2008 ADS & CAE (auf Sun und Mac OS X), Tomcat 6, Oracle 10i
 
-In 2012: Unterstützung bei der Weiterentwicklung einer iOS App
+## In 2012: Unterstützung bei der Weiterentwicklung einer iOS App
 
 Verantwortung:  
 Implementierung, Know-How Unterstützung
 
 Systemumgebung: iPad, iOS 4.2, 5.1
 
-In 2011: kurzfristige Unterstützung bei der Weiterentwicklung einer iOS App
+## In 2011: kurzfristige Unterstützung bei der Weiterentwicklung einer iOS App
 
 Verantwortung:  
 Implementierung, Know-How Unterstützung
 
 Systemumgebung: iPad, iOS 5, SplitView
 
-In 2011: Implementierung einer regionalen Video-Auslieferung auf Basis der CoreMedia Unified API
+## In 2011: Implementierung einer regionalen Video-Auslieferung auf Basis der CoreMedia Unified API
 
 Verantwortung:  
 Konzeption und Entwicklung und Überführung in den Betrieb
@@ -169,7 +169,7 @@ Konzeption und Entwicklung und Überführung in den Betrieb
 Systemumgebung:  
 CoreMedia CMS 2008 ADS & CAE (auf Sun und Mac OS X), Tomcat 6, Oracle 10i
 
-In 2010: Implementierung und technische Konzeption einer Universal iOS App mit enger Serveranbindung
+## In 2010: Implementierung und technische Konzeption einer Universal iOS App mit enger Serveranbindung
 
 Verantwortung:  
 Implementierung, Technische Konzeption
@@ -177,7 +177,7 @@ Implementierung, Technische Konzeption
 Systemumgebung:  
 iPhone/iPad, iOS 3.1.3 bis 4.0, TableView drill downs in Tab Bar
 
-In 2010: Migration einer General-Interest-Site von CoreMedia ADS nach CAE
+## In 2010: Migration einer General-Interest-Site von CoreMedia ADS nach CAE
 
 Verantwortung:  
 Überführung des Betriebs von der vorherigen CoreMedia ADS Architektur in die neue CAE Architektur, Initiales Deployment, Hardware Sizing, Konfiguration der produktiven Umgebung, Deployments
@@ -185,14 +185,14 @@ Überführung des Betriebs von der vorherigen CoreMedia ADS Architektur in die
 Systemumgebung:  
 CoreMedia CMS 2008 ADS & CAE (auf Sun und Mac OS X), Tomcat 6, Oracle 10i
 
-In 2010: Technische Beratung bei der Umsetzung von iPhone Apps mit hoher Serverintegration
+## In 2010: Technische Beratung bei der Umsetzung von iPhone Apps mit hoher Serverintegration
 
 Verantwortung:  
 Technische Beratung bei der Umsetzung von iPhone Apps mit hoher Serverintegration: Technische Beratung bei konzeptionellen Fragen. Auffinden von technischen Umsetzungswegen und Machbarkeit
 
 Systemumgebung: iPhone
 
-in 2010: Migration einer General-Interest-Site von CoreMedia 2006 nach 2008
+## in 2010: Migration einer General-Interest-Site von CoreMedia 2006 nach 2008
 
 Verantwortung:  
 Aktualisierung der Build- und Deploy Scripte, Initiale Installation, Planung der Migration, Konfiguration der produktiven Umgebung, Deployment, Koordination der Hosting Firma, (\>100 Mio Visits/Monat)
@@ -200,7 +200,7 @@ Aktualisierung der Build- und Deploy Scripte, Initiale Installation, Planung der
 Systemumgebung:  
 CoreMedia CMS 2008 ADS & CAE (auf Sun und Mac OS X), Tomcat 6, Oracle 10i
 
-in 2009: Betriebsunterstützung einer General-Interest-Site
+## in 2009: Betriebsunterstützung einer General-Interest-Site
 
 Verantwortung:  
 Performance-Tests von Software und Hardware, Unterstützung des Betriebs und der Bereitschaft, Systemarchitektur, (\>100 Mio Visits/Monat)
@@ -208,7 +208,7 @@ Performance-Tests von Software und Hardware, Unterstützung des Betriebs und de
 Systemumgebung:  
 CoreMedia CMS 2006 ADS & CAE (auf Sun und Mac OS X), Tomcat 5, Oracle 10i
 
-In 2009: Vertrieb selbst implementierter iPhone Programme: LightIt Lite und iRate
+## In 2009: Vertrieb selbst implementierter iPhone Programme: LightIt Lite und iRate
 
 Verantwortung:  
 Idee, Konzeption, Design und Implementierung eigener iPhone Programme: LightIt Lite, iRate Lite und iRate
@@ -216,6 +216,8 @@ Idee, Konzeption, Design und Implementierung eigener iPhone Programme: LightIt L
 Systemumgebung:  
 xCode, Objective-C  
 serverseitig: Java, Tomcat, PostgreSQL
+
+**tl;dr**
 
 In 2009: Technische Beratung beim Relaunch einer Community Integration mit CoreMedia CMS 2008
 
