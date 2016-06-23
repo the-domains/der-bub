@@ -1,7 +1,7 @@
 ---
-description: 'Verantwortung:  Implementierung an einer B2C-Lösung (ride sharing app)'
-dateModified: '2016-06-23T19:59:34.138Z'
-datePublished: '2016-06-23T19:59:46.351Z'
+description: 'iOS Entwickler und Architekt: meine Apps im App Store'
+dateModified: '2016-06-23T20:06:36.674Z'
+datePublished: '2016-06-23T20:06:41.840Z'
 title: Projektreferenzen
 author: []
 isBasedOnUrl: >-
@@ -17,7 +17,11 @@ _type: MediaObject
 ---
 # Projektreferenzen
 
-## In 2016: Weiterentwicklung einer innovativen iOS App für ein Startup
+iOS Entwickler und Architekt: meine Apps im [App Store][0]
+
+CoreMedia CMS Spezialist
+
+In 2016: Weiterentwicklung einer innovativen iOS App für ein Startup
 
 Verantwortung:  
 Implementierung an einer B2C-Lösung (ride sharing app)
@@ -217,7 +221,7 @@ Systemumgebung:
 xCode, Objective-C  
 serverseitig: Java, Tomcat, PostgreSQL
 
-**tl;dr**
+# **tl;dr**
 
 In 2009: Technische Beratung beim Relaunch einer Community Integration mit CoreMedia CMS 2008
 
@@ -371,3 +375,5 @@ Java Entwicklung, Datenmodellierung (SQL sowie Altdatenübernahme), Integration
 
 Systemumgebung:  
 Weblogic 5.8, Oracle 8i (OPS!) auf Sun
+
+[0]: https://itun.es/i6LF5nB "Sebastian Bub Software Distribution"
