@@ -1,7 +1,7 @@
 ---
 description: 'iOS Entwickler und Architekt: meine Apps im App Store'
-dateModified: '2016-06-23T20:06:36.674Z'
-datePublished: '2016-06-23T20:06:41.840Z'
+dateModified: '2016-06-23T20:09:13.950Z'
+datePublished: '2016-06-23T20:09:18.111Z'
 title: Projektreferenzen
 author: []
 isBasedOnUrl: >-
@@ -15,6 +15,8 @@ inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d40598b-ce00-41bc-83ae-a70c9ea0ebd8.jpg)
+
 # Projektreferenzen
 
 iOS Entwickler und Architekt: meine Apps im [App Store][0]
