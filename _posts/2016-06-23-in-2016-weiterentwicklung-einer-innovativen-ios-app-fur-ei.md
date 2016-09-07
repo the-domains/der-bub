@@ -1,17 +1,16 @@
 ---
 description: 'iOS Entwickler und Architekt: meine Apps im App Store'
-dateModified: '2016-07-05T19:31:48.430Z'
-datePublished: '2016-07-05T19:38:52.630Z'
+dateModified: '2016-09-03T12:07:55.329Z'
+datePublished: '2016-09-03T12:07:56.075Z'
 title: Projektreferenzen
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9b34822-fe37-43e2-bf34-7e8c824d8fe7.jpg
 sourcePath: >-
   _posts/2016-06-23-in-2016-weiterentwicklung-einer-innovativen-ios-app-fur-ei.md
+hasPage: true
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: projektreferenzen/index.html
 _type: MediaObject
 
 ---
