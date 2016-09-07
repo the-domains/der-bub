@@ -20,6 +20,12 @@ navigation:
   - name: Kontakt
     id: 05539d39-6cf1-40af-af62-181134208cc0
     type: content
+  - name: Vita
+    id: d2aaf835-1752-490a-bae0-8db3e679fe8a
+    type: content
+  - name: Projektreferenzen
+    id: d232483f-55b8-4d40-bf7d-9d8ea188404a
+    type: content
 collections:
   - index:
       path: /
