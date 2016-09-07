@@ -1,4 +1,17 @@
 ---
+datePublished: '2016-09-03T12:17:39.077Z'
+sourcePath: >-
+  _posts/2016-05-31-sie-suchen-zur-umsetzung-eines-it-projektes-einen-geeigneten.md
+inFeed: true
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/45ea67e2-49dc-430f-b85b-51e4435134d0.jpg
+author: []
+via: {}
+dateModified: '2016-09-03T12:17:38.526Z'
+title: >-
+  Sie suchen zur Umsetzung eines IT-Projektes einen geeigneten, externen
+  Softwareentwickler?
+publisher: {}
 description: >-
   Als IT-Berater, Systemanalytiker und Java-Spezialist kenne ich das
   IT-Projektgeschäft seit mehreren Jahren durch verantwortliche Mitgestaltung
@@ -9,20 +22,7 @@ description: >-
   Kunden, Entwicklerteam, Hosting Firma und weiteren technischen Partnern.
   Aufgrund meiner Erfahrungen habe ich exzellentes Wissen über das CMS Produkt
   der Firma CoreMedia.
-dateModified: '2016-07-05T19:41:40.684Z'
-datePublished: '2016-07-05T19:42:10.514Z'
-title: >-
-  Sie suchen zur Umsetzung eines IT-Projektes einen geeigneten, externen
-  Softwareentwickler?
-author: []
-sourcePath: >-
-  _posts/2016-05-31-sie-suchen-zur-umsetzung-eines-it-projektes-einen-geeigneten.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/45ea67e2-49dc-430f-b85b-51e4435134d0.jpg
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
