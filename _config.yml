@@ -1,7 +1,4 @@
-author:
-  name: Sebastian Bub
-  email: sebastian@der-bub.de
-  url: 'http://der-bub.de'
+typography_spectrum: 0.4871106
 color:
   saturation: 0.3131603191141039
   brandStrength: 0.4516649
@@ -13,6 +10,16 @@ color:
     - '#6C5625'
     - '#AAA28B'
   lightness: 0.5489419111981988
+layout_spectrum: 0
+author:
+  name: Sebastian Bub
+  email: sebastian@der-bub.de
+  url: 'http://der-bub.de'
+name: der bub - iOS Engineer
+navigation:
+  - name: Kontakt
+    id: 05539d39-6cf1-40af-af62-181134208cc0
+    type: content
 collections:
   - index:
       path: /
@@ -26,6 +33,3 @@ collections:
     permalink:
       path: '/:title/'
 title: der bub - iOS Engineer
-layout_spectrum: 0
-typography_spectrum: 0.4871106
-name: der bub - iOS Engineer
