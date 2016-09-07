@@ -17,6 +17,9 @@ author:
   url: 'http://der-bub.de'
 name: der bub
 navigation:
+  - name: Home
+    id: a6219354-6351-40e2-a9cb-033efb78cb9d
+    type: content
   - name: Kontakt
     id: 05539d39-6cf1-40af-af62-181134208cc0
     type: content
@@ -25,9 +28,6 @@ navigation:
     type: content
   - name: Projektreferenzen
     id: d232483f-55b8-4d40-bf7d-9d8ea188404a
-    type: content
-  - name: Home
-    id: a6219354-6351-40e2-a9cb-033efb78cb9d
     type: content
 collections:
   - index:
