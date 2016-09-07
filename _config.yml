@@ -1,16 +1,16 @@
-typography_spectrum: 0.4871106
-color:
-  saturation: 0.3131603191141039
-  brandStrength: 0.4516649
-  rhythmicContrast: 0.3560128945391625
-  brandColors:
-    - '#E2DEDD'
-    - '#1D2225'
-    - '#867D60'
-    - '#6C5625'
-    - '#AAA28B'
-  lightness: 0.5489419111981988
 layout_spectrum: 0
+typography_spectrum: 0.11956464312970638
+color:
+  saturation: 0.1813296361360699
+  brandStrength: 0.7293340913020074
+  rhythmicContrast: 0.409585228189826
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+  lightness: 0.750761650968343
 author:
   name: Sebastian Bub
   email: sebastian@der-bub.de
@@ -20,14 +20,14 @@ navigation:
   - name: Home
     id: a6219354-6351-40e2-a9cb-033efb78cb9d
     type: content
-  - name: Kontakt
-    id: 05539d39-6cf1-40af-af62-181134208cc0
-    type: content
   - name: Vita
     id: d2aaf835-1752-490a-bae0-8db3e679fe8a
     type: content
   - name: Projektreferenzen
     id: d232483f-55b8-4d40-bf7d-9d8ea188404a
+    type: content
+  - name: Kontakt
+    id: 05539d39-6cf1-40af-af62-181134208cc0
     type: content
 collections:
   - index:
